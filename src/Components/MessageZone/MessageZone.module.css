@@ -1,0 +1,13 @@
+.messageZone {
+  min-width: 300px;
+  height: 400px;
+  overflow-y: scroll;
+  border-bottom: 3px solid rgb(133, 123, 123);
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}

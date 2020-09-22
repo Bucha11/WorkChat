@@ -1,0 +1,15 @@
+.input button {
+  border: none;
+  outline: none;
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(77, 121, 241);
+  width: 100px;
+}
+
+.input input {
+  width: 300px;
+  padding: 5px;
+  margin-right: 10px;
+}

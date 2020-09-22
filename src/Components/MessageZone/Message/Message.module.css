@@ -1,0 +1,22 @@
+.message {
+  width: 400px;
+  height: 50px;
+  border: 2px solid rgb(145, 141, 141);
+  border-radius: 20px;
+  padding: 10px 50px;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 18px;
+  color: rgb(87, 168, 168);
+  font-weight: bold;
+}
+
+.text {
+  font-size: 18px;
+}

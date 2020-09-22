@@ -1,0 +1,51 @@
+.myMessage {
+  width: 400px;
+  height: 50px;
+
+  align-self: flex-end;
+  border: 2px solid rgb(145, 141, 141);
+  border-radius: 20px;
+  padding: 10px 50px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 18px;
+  color: rgb(142, 58, 221);
+  font-weight: bold;
+}
+
+.text {
+  font-size: 18px;
+}
+
+.controls {
+  height: 20px;
+  align-self: center;
+}
+
+.controls button {
+  border: 1px solid rgb(224, 219, 219);
+  outline: none;
+  padding: 5px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.controls button:hover {
+  background-color: rgb(150, 172, 231);
+}
+
+.controls button:active {
+  background-color: white;
+}
+
+.delete {
+  background-color: rgb(216, 76, 76);
+}
+
+.edit {
+  background-color: rgb(88, 179, 79);
+}
